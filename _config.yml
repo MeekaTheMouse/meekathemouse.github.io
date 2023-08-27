@@ -1,3 +1,5 @@
+theme: minima
+
 # Where things are
 source              : .
 destination         : ./_site
@@ -69,5 +71,3 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
-
-theme: minima
